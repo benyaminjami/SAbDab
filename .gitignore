@@ -1,0 +1,7 @@
+all_structures/*
+*.zip
+all_data/*
+*/__cache__/*
+*/__pycache__/*
+__pycache__/*
+__cache__/*
